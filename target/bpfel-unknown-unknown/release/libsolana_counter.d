@@ -1,0 +1,1 @@
+/home/anik/Desktop/Vivasoft/Blockchain/solana-counter/target/bpfel-unknown-unknown/release/libsolana_counter.rlib: /home/anik/Desktop/Vivasoft/Blockchain/solana-counter/programs/solana-counter/src/lib.rs

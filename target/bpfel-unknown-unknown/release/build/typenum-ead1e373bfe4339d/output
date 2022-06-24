@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/anik/Desktop/Vivasoft/Blockchain/solana-counter/target/bpfel-unknown-unknown/release/build/typenum-ead1e373bfe4339d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/anik/Desktop/Vivasoft/Blockchain/solana-counter/target/bpfel-unknown-unknown/release/build/typenum-ead1e373bfe4339d/out/op.rs
